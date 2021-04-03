@@ -24,7 +24,7 @@ Introduction to Algorithms Video Lectures 6.006
 ======
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ <br>
 Youtube link https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb <br>
-Python Basics https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-videos/
+Python Basics https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA <br>
 Lecture 1: Algorithmic Thinking, Peak Finding<br>
 Lecture 2: Models of Computation, Document Distance<br>
 Lecture 3: Insertion Sort, Merge Sort<br>
