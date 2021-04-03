@@ -19,17 +19,6 @@ Unit 7: Dynamic Programming<br>
 Unit 8: Advanced Topics <br>
          - Computational complexity<br>
 		 
-Assignments	
-============
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/	  <br>
-1. Asymptotic complexity, recurrence relations, peak finding
-2. Fractal rendering, digital circuit simulation
-3. Range queries, digital circuit layout
-4. Hash functions, Python dictionaries, matching DNA sequences
-5. The Knight's Shield, RSA public key encryption, image decryption
-6. Social networks, Rubik's Cube, Dijkstra
-7. Seam carving, stock purchasing and knapsack
-
 Introduction to Algorithms Video Lectures
 ======
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ <br>
