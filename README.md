@@ -7,7 +7,7 @@ Mathematics https://ocw.mit.edu/courses/electrical-engineering-and-computer-scie
 Software Engineering https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/resource-index/ <br>
 Programming for the Puzzled https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/puzzle-1-you-will-all-conform/ <br>
 
-Introduction to Algorithms
+Introduction to Algorithms 6.006
 ===========================
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/ <br>
 Unit 1: Introduction<br>
@@ -20,7 +20,7 @@ Unit 7: Dynamic Programming<br>
 Unit 8: Advanced Topics <br>
          - Computational complexity<br>
 		 
-Introduction to Algorithms Video Lectures
+Introduction to Algorithms Video Lectures 6.006
 ======
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ <br>
 Lecture 1: Algorithmic Thinking, Peak Finding<br>
@@ -48,7 +48,7 @@ Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros.<
 Lecture 23: Computational Complexity<br>
 Lecture 24: Topics in Algorithms Research<br>
 
-Design and Analysis of Algorithms Video Lectures
+Design and Analysis of Algorithms Video Lectures 6.046
 ======
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/ <br>
 Lecture 1: Overview, Interval Scheduling <br>
@@ -76,7 +76,7 @@ Lecture 22: Cryptography: Encryption <br>
 Lecture 23: Cache-Oblivious Algorithms: Medians & Matrices <br>
 Lecture 24: Cache-Oblivious Algorithms: Searching & Sorting <br>
 
-Advanced Algorithms Lecture Notes & Study Materials
+Advanced Algorithms Lecture Notes & Study Materials 6.854
 ======
 Lecture Notes https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/lecture-notes/ <br>
 Study Materials https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/study-materials/
