@@ -4,7 +4,8 @@ Python Data Structures &amp; Algorithm Notes
 Prerequisite
 =============
 Mathematics https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/ <br>
-Software Engineering https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/resource-index/
+Software Engineering https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/resource-index/ <br>
+Programming for the Puzzled https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s095-programming-for-the-puzzled-january-iap-2018/puzzle-1-you-will-all-conform/ <br>
 
 Introduction to Algorithms
 ===========================
