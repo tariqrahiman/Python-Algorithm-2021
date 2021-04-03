@@ -3,7 +3,7 @@ Python Data Structures &amp; Algorithm Notes
 
 Introduction to Algorithms
 ===========================
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-notes/ <br>
 Unit 1: Introduction<br>
 Unit 2: Sorting & Trees<br>
 Unit 3: Hashing<br>
@@ -18,7 +18,7 @@ Unit 8: Advanced Topics <br>
 		 
 Assignments	
 ============
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/	 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/assignments/	  <br>
 1. Asymptotic complexity, recurrence relations, peak finding
 2. Fractal rendering, digital circuit simulation
 3. Range queries, digital circuit layout
@@ -29,7 +29,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-in
 
 Video
 ======
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ <br>
 Lecture 1: Algorithmic Thinking, Peak Finding<br>
 Lecture 2: Models of Computation, Document Distance<br>
 Lecture 3: Insertion Sort, Merge Sort<br>
