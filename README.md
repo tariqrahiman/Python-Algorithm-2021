@@ -30,7 +30,7 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-in
 6. Social networks, Rubik's Cube, Dijkstra
 7. Seam carving, stock purchasing and knapsack
 
-Video
+Introduction to Algorithms Video Lectures
 ======
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ <br>
 Lecture 1: Algorithmic Thinking, Peak Finding<br>
@@ -57,3 +57,31 @@ Lecture 21: Dynamic Programming III: Parenthesization, Edit Distance, Knapsack<b
 Lecture 22: Dynamic Programming IV: Guitar Fingering, Tetris, Super Mario Bros.<br>
 Lecture 23: Computational Complexity<br>
 Lecture 24: Topics in Algorithms Research<br>
+
+Design and Analysis of Algorithms Video Lectures
+======
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/ <br>
+Lecture 1: Overview, Interval Scheduling <br>
+Lecture 2: Divide & Conquer: Convex Hull, Median Finding <br>
+Lecture 3: Divide & Conquer: FFT <br>
+Lecture 4: Divide & Conquer: van Emde Boas Trees <br>
+Lecture 5: Amortization: Amortized Analysis <br>
+Lecture 6: Randomization: Matrix Multiply, Quicksort <br>
+Lecture 7: Randomization: Skip Lists <br>
+Lecture 8: Randomization: Universal & Perfect Hashing <br>
+Lecture 9: Augmentation: Range Trees <br>
+Lecture 10: Dynamic Programming: Advanced DP <br>
+Lecture 11: Dynamic Programming: All-Pairs Shortest Paths <br>
+Lecture 12: Greedy Algorithms: Minimum Spanning Tree <br>
+Lecture 13: Incremental Improvement: Max Flow, Min Cut <br>
+Lecture 14: Incremental Improvement: Matching <br>
+Lecture 15: Linear Programming: LP, reductions, Simplex <br>
+Lecture 16: Complexity: P, NP, NP-completeness, Reductions <br>
+Lecture 17: Complexity: Approximation Algorithms <br>
+Lecture 18: Complexity: Fixed-Parameter Algorithms <br>
+Lecture 19: Synchronous Distributed Algorithms: Symmetry-Breaking. Shortest-Paths Spanning Trees <br>
+Lecture 20: Asynchronous Distributed Algorithms: Shortest-Paths Spanning Trees <br>
+Lecture 21: Cryptography: Hash Functions <br>
+Lecture 22: Cryptography: Encryption <br>
+Lecture 23: Cache-Oblivious Algorithms: Medians & Matrices <br>
+Lecture 24: Cache-Oblivious Algorithms: Searching & Sorting <br>
