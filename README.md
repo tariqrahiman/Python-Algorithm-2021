@@ -75,3 +75,8 @@ Lecture 21: Cryptography: Hash Functions <br>
 Lecture 22: Cryptography: Encryption <br>
 Lecture 23: Cache-Oblivious Algorithms: Medians & Matrices <br>
 Lecture 24: Cache-Oblivious Algorithms: Searching & Sorting <br>
+
+Advanced Algorithms Lecture Notes & Study Materials
+======
+Lecture Notes https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/lecture-notes/ <br>
+Study Materials https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-854j-advanced-algorithms-fall-2008/study-materials/
