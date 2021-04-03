@@ -1,5 +1,10 @@
 # Python-Algorithm-2021
-Python Data Structures &amp; Algorithm Notes
+Python Data Structures &amp; Algorithm Notes 
+
+Prerequisite
+=============
+Mathematics https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/lecture-slides/ <br>
+Software Engineering https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/resource-index/
 
 Introduction to Algorithms
 ===========================
@@ -13,8 +18,6 @@ Unit 6: Shortest Paths<br>
 Unit 7: Dynamic Programming<br>
 Unit 8: Advanced Topics <br>
          - Computational complexity<br>
-
-
 		 
 Assignments	
 ============
