@@ -1,0 +1,32 @@
+class Solution:
+    def numberOfSubstrings(self, s: str) -> int:
+        dic ={}
+        l = 0
+        r = 0
+        dic['a'] = 0
+        dic['b'] = 0
+        dic['c'] = 0
+        numabc = 0
+        length = len(s)
+        while l<=r and r<length:
+            dic[s[r]] +=1
+            #print(dic)
+            while True:
+                if dic['a'] and dic['b'] and dic ['c']:
+                    numabc += length-r
+                    #print("This is r:",r)
+                    #print("This is l:",l)
+                    #print("This is numabc:",numabc)
+                    dic[s[l]]-=1
+                    l+=1
+                    #print(l,r)
+                else:
+                    break
+            r+=1
+            #print(r)
+
+        return numabc
+            
+                
+            
+        
