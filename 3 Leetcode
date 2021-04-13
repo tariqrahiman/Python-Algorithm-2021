@@ -1,0 +1,28 @@
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        maxlen = 0
+        curlen = 0
+        dic ={}
+        substr =''
+        for char in s:
+            if char in dic:
+                while char!=substr[0]:
+                    dic.pop(substr[0])
+                    substr = substr[1:]
+                    curlen -=1
+                else: 
+                    substr = substr[1:] + char    
+            else:
+                substr =substr + char
+                dic[char] = 1
+                curlen += 1
+                if curlen >=maxlen:
+                    maxlen = curlen
+
+        return maxlen
+                    
+            
+                    
+                
+                
+            

@@ -25,6 +25,13 @@ Introduction to Algorithms Video Lectures 6.006
 https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ <br>
 Youtube link https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb <br>
 Python Basics https://www.youtube.com/playlist?list=PLUl4u3cNGP63WbdFxL8giv4yhgdMGaZNA <br>
+https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA <br>
+https://www.youtube.com/watch?v=_ri3Qm5A4Dk&list=PLs8TmeZHJEeF2UMA8KCI6g0BMDrVUgB0r&ab_channel=SeshVenugopal <br>
+https://www.youtube.com/c/EasyEngineeringClasses/videos  <br>
+https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1  <br>
+https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk  <br>
+500 puzzles https://blog.usejournal.com/500-data-structures-and-algorithms-practice-problems-35afe8a1e222   <br>
+Github repo for Python https://github.com/TheAlgorithms/Python <br>
 Lecture 1: Algorithmic Thinking, Peak Finding<br>
 Lecture 2: Models of Computation, Document Distance<br>
 Lecture 3: Insertion Sort, Merge Sort<br>
